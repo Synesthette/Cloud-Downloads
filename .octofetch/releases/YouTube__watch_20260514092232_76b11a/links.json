@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3033",
+  "folder": "YouTube__watch_20260514092232_76b11a",
+  "base_name": "AQUARIUS_Pay_Attention_To_This_Red_Flag_You_Are_About_To_Solve_A_Big_M_QXx7wr6qsew_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Synesthette/Cloud-Downloads/releases/tag/co-releases-v1-3033",
+  "files": [
+    {
+      "name": "AQUARIUS_Pay_Attention_To_This_Red_Flag_You_Are_About_To_Solve_A_Big_M_QXx7wr6qsew_360p.mp4",
+      "url": "https://github.com/Synesthette/Cloud-Downloads/releases/download/co-releases-v1-3033/AQUARIUS_Pay_Attention_To_This_Red_Flag_You_Are_About_To_Solve_A_Big_M_QXx7wr6qsew_360p.mp4",
+      "api_url": "https://api.github.com/repos/Synesthette/Cloud-Downloads/releases/assets/420040413",
+      "id": 420040413,
+      "size": 123330357,
+      "download_count": 0
+    }
+  ]
+}
