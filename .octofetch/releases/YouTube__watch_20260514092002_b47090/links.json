@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2114",
+  "folder": "YouTube__watch_20260514092002_b47090",
+  "base_name": "I_work_with_Psychopaths_-_This_is_What_They_Tell_Me_About_How_They_Tar_WDaLUXVcHKU_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Synesthette/Cloud-Downloads/releases/tag/co-releases-v1-2114",
+  "files": [
+    {
+      "name": "I_work_with_Psychopaths_-_This_is_What_They_Tell_Me_About_How_They_Tar_WDaLUXVcHKU_360p.mp4",
+      "url": "https://github.com/Synesthette/Cloud-Downloads/releases/download/co-releases-v1-2114/I_work_with_Psychopaths_-_This_is_What_They_Tell_Me_About_How_They_Tar_WDaLUXVcHKU_360p.mp4",
+      "api_url": "https://api.github.com/repos/Synesthette/Cloud-Downloads/releases/assets/420038806",
+      "id": 420038806,
+      "size": 340679689,
+      "download_count": 0
+    }
+  ]
+}
