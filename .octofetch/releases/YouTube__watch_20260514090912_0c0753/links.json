@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9021",
+  "folder": "YouTube__watch_20260514090912_0c0753",
+  "base_name": "KARMIC_RESET_GET_READY_FOR_A_SURPRISE_YOUR_STRENGTH_IS_UNPARALLELED_3JAIwMMQQLM_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Synesthette/Cloud-Downloads/releases/tag/co-releases-v1-9021",
+  "files": [
+    {
+      "name": "KARMIC_RESET_GET_READY_FOR_A_SURPRISE_YOUR_STRENGTH_IS_UNPARALLELED_3JAIwMMQQLM_360p.mp4",
+      "url": "https://github.com/Synesthette/Cloud-Downloads/releases/download/co-releases-v1-9021/KARMIC_RESET_GET_READY_FOR_A_SURPRISE_YOUR_STRENGTH_IS_UNPARALLELED_3JAIwMMQQLM_360p.mp4",
+      "api_url": "https://api.github.com/repos/Synesthette/Cloud-Downloads/releases/assets/420032949",
+      "id": 420032949,
+      "size": 124390014,
+      "download_count": 0
+    }
+  ]
+}
