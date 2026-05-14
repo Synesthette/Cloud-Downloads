@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6259",
+  "folder": "YouTube__watch_20260514091649_4e8d9f",
+  "base_name": "AQUARIUS_Message_For_A_Select_Few_4k2wVI6zSas_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Synesthette/Cloud-Downloads/releases/tag/co-releases-v1-6259",
+  "files": [
+    {
+      "name": "AQUARIUS_Message_For_A_Select_Few_4k2wVI6zSas_360p.mp4",
+      "url": "https://github.com/Synesthette/Cloud-Downloads/releases/download/co-releases-v1-6259/AQUARIUS_Message_For_A_Select_Few_4k2wVI6zSas_360p.mp4",
+      "api_url": "https://api.github.com/repos/Synesthette/Cloud-Downloads/releases/assets/420036337",
+      "id": 420036337,
+      "size": 208037511,
+      "download_count": 0
+    }
+  ]
+}
