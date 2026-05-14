@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5787",
+  "folder": "YouTube__watch_20260514091854_01662e",
+  "base_name": "SCORPIO_It_Ended_For_This_To_Begin_Get_EXCITED_Your_Power_Move_Pays_Of_1BXxMOiaJOg_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Synesthette/Cloud-Downloads/releases/tag/co-releases-v1-5787",
+  "files": [
+    {
+      "name": "SCORPIO_It_Ended_For_This_To_Begin_Get_EXCITED_Your_Power_Move_Pays_Of_1BXxMOiaJOg_360p.mp4",
+      "url": "https://github.com/Synesthette/Cloud-Downloads/releases/download/co-releases-v1-5787/SCORPIO_It_Ended_For_This_To_Begin_Get_EXCITED_Your_Power_Move_Pays_Of_1BXxMOiaJOg_360p.mp4",
+      "api_url": "https://api.github.com/repos/Synesthette/Cloud-Downloads/releases/assets/420037825",
+      "id": 420037825,
+      "size": 124100937,
+      "download_count": 0
+    }
+  ]
+}
